@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "id": "nov25-pro-sale",
+  "audience": "free",                 // "free" | "pro" | "all"
+  "strategy": "every_nth_launch",     // "every_launch" | "every_nth_launch"
+  "nth": 3,                           // used only for "every_nth_launch"
+  "maxTotal": 2,                      // show at most N times ever
+  "html": "<h3>Black Friday: Go Pro for £0.99</h3><p>Unlock 100 extra roasts, Strong mode, and no ads.</p><img src=\"/img/pro-sale.png\" style=\"width:100%;border-radius:12px;margin:8px 0\"/>"
+}
