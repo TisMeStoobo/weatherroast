@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "id": "nov25-pro-sale",
+  "id": "intro_offer",
   "audience": "all",
   "strategy": "every_launch",
   "nth": 3, 
