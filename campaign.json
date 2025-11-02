@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "id": "nov25-pro-sale",
-  "audience": "free",
+  "audience": "all",
   "strategy": "every_launch",
   "nth": 3, 
   "maxTotal": 20,
