@@ -1,9 +1,32 @@
-{
-  "enabled": false,
-  "id": "new_packs",
-  "audience": "pro",
-  "strategy": "every_launch",
-  "nth": 3, 
-  "maxTotal": 20,
-  "html": "<h3>New Irish voice packs avaailable, click here</h3>"
-}
+[
+  {
+    "enabled": true,
+    "id": "intro_v1",
+    "audience": "all",
+    "strategy": "every_launch",
+    "nth": 1,
+    "maxTotal": 1,
+    "priority": 999,
+    "html": "<h2>Welcome to WeatherRoast</h2><p>Tap the mic and say something like <b>What's the weather today</b> or <b>What's the weather in Brighton on Tuesday</b>.</p><p>Prefer typing? Use the text box—place name or postcode/ZIP works.</p>"
+  },
+  {
+    "enabled": false,
+    "id": "upgrade_message",
+    "audience": "free",
+    "strategy": "every_nth_launch",
+    "nth": 3,
+    "maxTotal": 4,
+    "priority": 50,
+    "html": "<h3>Go Pro for extra voices & no ads</h3>"
+  },
+  {
+    "enabled": false,
+    "id": "news_new_packs",
+    "audience": "pro",
+    "strategy": "every_launch",
+    "nth": 5,
+    "maxTotal": 10,
+    "priority": 40,
+    "html": "<h3>New Irish voice packs available</h3>"
+  }
+]
