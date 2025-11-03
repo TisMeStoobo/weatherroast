@@ -7,7 +7,7 @@
     "nth": 1,
     "maxTotal": 1,
     "priority": 999,
-"html": "<div class=\"wr-intro\"><div class=\"wr-intro-row\"><div class=\"wr-intro-icoWrap\"><img src=\"/welcome/how-to-one.webp\" alt=\"Microphone\" class=\"wr-intro-ico\" /></div><span class=\"wr-intro-text\">Tap the mic and say something like <b>What&#39;s the weather today</b> or <b>What&#39;s the weather in Brighton on Tuesday</b>.</span></div><div class=\"wr-intro-row\"><div class=\"wr-intro-icoWrap\"><img src=\"/welcome/how-to-two.webp\" alt=\"Keyboard\" class=\"wr-intro-ico\" /></div><span class=\"wr-intro-text\">Prefer typing? Use the text box—place name or postcode/ZIP works.</span></div></div>"
+"html": "<div class=\"wr-intro\"><div class=\"wr-intro-row\"><img src=\"/welcome/how-to-one.webp\" alt=\"Microphone\" class=\"wr-intro-ico\" /><span class=\"wr-intro-text\">Tap the mic and say something like <b>What&#39;s the weather today</b> or <b>What&#39;s the weather in Brighton on Tuesday</b>.</span></div><div class=\"wr-intro-row\"><img src=\"/welcome/how-to-two.webp\" alt=\"Keyboard\" class=\"wr-intro-ico\" /><span class=\"wr-intro-text\">Prefer typing? Use the text box—place name or postcode/ZIP works.</span></div></div>"
   },
   {
     "enabled": false,
