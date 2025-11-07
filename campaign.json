@@ -7,7 +7,7 @@
     "nth": 1,
     "maxTotal": 1,
     "priority": 999,
-"html": "<div class=\"modalBody\"><div class=\"wr-intro\"><div class=\"wr-intro-row\"><img src=\"/welcome/how-to-one.webp\" alt=\"Microphone\" class=\"wr-intro-ico\" /><span class=\"wr-intro-text\">Tap the mic and say something like &ldquo;What’s the weather today&rdquo; or &ldquo;What’s the weather in Brighton on Tuesday&rdquo;.</span></div><div class=\"wr-intro-row\"><img src=\"/welcome/how-to-two.webp\" alt=\"Keyboard\" class=\"wr-intro-ico\" /><span class=\"wr-intro-text\">Prefer typing, or using iOS? Use the text box to enter a place name or postcode/ZIP.</span></div><div class=\"wr-intro-row\"><span class=\"wr-intro-text\" style=\"grid-column:1 / -1; font-style:italic; opacity:.9;\">Voice search isn’t supported on iOS.</span></div></div></div>"
+"html": "<div class=\"modalBody\"><div class=\"wr-intro\"><div class=\"wr-intro-row\"><img src=\"/welcome/how-to-one.webp\" alt=\"Microphone\" class=\"wr-intro-ico\" /><span class=\"wr-intro-text\">Tap the mic and say something like &ldquo;What’s the weather today&rdquo; or &ldquo;What’s the weather in Brighton on Tuesday&rdquo;.</span></div><div class=\"wr-intro-row\"><img src=\"/welcome/how-to-two.webp\" alt=\"Keyboard\" class=\"wr-intro-ico\" /><span class=\"wr-intro-text\">Prefer typing? Use the text box to enter a place name or postcode/ZIP.</span></div></div></div>"
   },
   {
     "enabled": false,
