@@ -20,7 +20,7 @@
     "html": "<h3>Go Pro for extra voices & no ads</h3>"
   },
   {
-    "enabled": false,
+    "enabled": true,
     "id": "news_new_packs",
     "audience": "pro",
     "strategy": "every_launch",
