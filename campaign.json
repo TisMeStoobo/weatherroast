@@ -26,7 +26,7 @@
     "strategy": "every_launch",
     "nth": 5,
     "maxTotal": 10,
-    "priority": 40,
+    "priority": 100,
     "html": "<h3>New Irish voice packs available</h3>"
   }
 ]
