@@ -20,13 +20,13 @@
     "html": "<h3>Go Pro for extra voices & no ads</h3>"
   },
   {
-    "enabled": true,
+    "enabled": false,
     "id": "news_new_packs",
     "audience": "pro",
     "strategy": "every_launch",
     "nth": 5,
     "maxTotal": 10,
-    "priority": 100,
+    "priority": 40,
     "html": "<h3>New Irish voice packs available</h3>"
   }
 ]
