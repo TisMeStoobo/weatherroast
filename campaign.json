@@ -28,5 +28,73 @@
     "maxTotal": 10,
     "priority": 40,
     "html": "<h3>New Irish voice packs available</h3>"
-  }
+ },
+{
+ "enabled": true,
+ "id": "affiliate_config_v1",
+ "audience": "all",
+ "strategy": "config",
+ "nth": 0,
+ "maxTotal": 0,
+ "priority": 0,
+ "affiliate": {
+   "prime": {
+     "UK": "http://www.amazon.co.uk/gp/video/primesignup/ref=acph_piv?tag=weatherroasta-21",
+     "US": "https://www.amazon.com/gp/video/primesignup?tag=weatherroasta-20",
+     "CA": "https://www.primevideo.com/?tag=weatherroas02-20",
+     "AU": "http://www.primevideo.com/?tag=weatherroasta-22",
+     "IE": "REPLACE_WITH_IRELAND_PRIME_URL",
+     "fallback": "UK"
+   },
+   "sun": {
+     "UK": "REPLACE_WITH_UK_SUN_CATEGORY_URL",
+     "US": "REPLACE_WITH_US_SUN_CATEGORY_URL",
+     "CA": "REPLACE_WITH_CA_SUN_CATEGORY_URL",
+     "AU": "REPLACE_WITH_AU_SUN_CATEGORY_URL",
+     "IE": "REPLACE_WITH_IE_SUN_CATEGORY_URL",
+     "fallback": "UK"
+   },
+   "rain": {
+     "UK": "REPLACE_WITH_UK_RAIN_CATEGORY_URL",
+     "US": "REPLACE_WITH_US_RAIN_CATEGORY_URL",
+     "CA": "REPLACE_WITH_CA_RAIN_CATEGORY_URL",
+     "AU": "REPLACE_WITH_AU_RAIN_CATEGORY_URL",
+     "IE": "REPLACE_WITH_IE_RAIN_CATEGORY_URL",
+     "fallback": "UK"
+   },
+   "snow": {
+     "UK": "REPLACE_WITH_UK_SNOW_CATEGORY_URL",
+     "US": "REPLACE_WITH_US_SNOW_CATEGORY_URL",
+     "CA": "REPLACE_WITH_CA_SNOW_CATEGORY_URL",
+     "AU": "REPLACE_WITH_AU_SNOW_CATEGORY_URL",
+     "IE": "REPLACE_WITH_IE_SNOW_CATEGORY_URL",
+     "fallback": "UK"
+   },
+   "generic": {
+     "UK": "REPLACE_WITH_UK_GENERIC_CATEGORY_URL",
+     "US": "REPLACE_WITH_US_GENERIC_CATEGORY_URL",
+     "CA": "REPLACE_WITH_CA_GENERIC_CATEGORY_URL",
+     "AU": "REPLACE_WITH_AU_GENERIC_CATEGORY_URL",
+     "IE": "REPLACE_WITH_IE_GENERIC_CATEGORY_URL",
+     "fallback": "UK"
+   }
+ },
+ "banners": {
+   "prime": {
+     "imageUrl": "https://weatherroast.app/banners/prime_generic_v1.webp"
+   },
+   "sun": {
+     "imageUrl": "https://weatherroast.app/banners/sun_v1.webp"
+   },
+   "rain": {
+     "imageUrl": "https://weatherroast.app/banners/rain_v1.webp"
+   },
+   "snow": {
+     "imageUrl": "https://weatherroast.app/banners/snow_v1.webp"
+   },
+   "generic": {
+     "imageUrl": "https://weatherroast.app/banners/generic_v1.webp"
+   }
+ }
+}
 ]
