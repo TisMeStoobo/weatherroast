@@ -30,7 +30,7 @@
     "html": "<h3>New Irish voice packs available</h3>"
  },
 {
- "enabled": true,
+ "enabled": false,
  "id": "affiliate_config_v1",
  "audience": "all",
  "strategy": "config",
