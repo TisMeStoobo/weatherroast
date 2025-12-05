@@ -80,21 +80,19 @@
    }
  },
  "banners": {
-   "prime": {
-     "imageUrl": "https://weatherroast.app/banners/prime_generic_v1.webp"
-   },
-   "sun": {
-     "imageUrl": "https://weatherroast.app/banners/sun_v1.webp"
-   },
-   "rain": {
-     "imageUrl": "https://weatherroast.app/banners/rain_v1.webp"
-   },
-   "snow": {
-     "imageUrl": "https://weatherroast.app/banners/snow_v1.webp"
-   },
-   "generic": {
-     "imageUrl": "https://weatherroast.app/banners/generic_v1.webp"
-   }
- }
+  "rain": {
+    "imageUrl": "https://weatherroast.app/banners/prime_rain_v1.webp"
+  },
+  "snow": {
+    "imageUrl": "https://weatherroast.app/banners/prime_snow_v1.webp"
+  },
+  "sun": {
+    "imageUrl": "https://weatherroast.app/banners/sun_products_v1.webp"
+  },
+  "generic": {
+    "imageUrl": "https://weatherroast.app/banners/generic_products_v1.webp"
+  }
+}
+
 }
 ]
