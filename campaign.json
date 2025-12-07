@@ -44,15 +44,15 @@
     "CA": "https://www.primevideo.com/?tag=weatherroas02-20",
     "AU": "http://www.primevideo.com/?tag=weatherroasta-22",
     "IE": "http://www.primevideo.com/?tag=weatherroas08-21",
-    "fallback": "UK"
+    "fallback": "US"
   },
   "snow": {
-    "UK": "http://www.amazon.co.uk/gp/video/primesignup/ref=acph_piv?tag=weatherroasta-21",
+     "UK": "http://www.amazon.co.uk/gp/video/primesignup/ref=acph_piv?tag=weatherroasta-21",
     "US": "https://www.amazon.com/gp/video/primesignup?tag=weatherroasta-20",
     "CA": "https://www.primevideo.com/?tag=weatherroas02-20",
     "AU": "http://www.primevideo.com/?tag=weatherroasta-22",
     "IE": "http://www.primevideo.com/?tag=weatherroas08-21",
-    "fallback": "UK"
+    "fallback": "US"
   },
   "sun": {
     "UK": "https://www.amazon.co.uk/s?k=sunglasses&s=exact-aware-popularity-rank&crid=35VO1SPLBU7C3&qid=1764940094&sprefix=sunglasses%2Caps%2C100&ds=v1%3AEXVSwdHErde7XMOw47ApxyrvT3ayeyfqQO7WYIYv24Y&linkCode=ll2&tag=weatherroasta-21&linkId=201fa776f4e82270ebb4faf3af87badd&language=en_GB&ref_=as_li_ss_tl",
@@ -60,15 +60,15 @@
     "CA": "https://www.amazon.ca/s?k=sunglasses&s=exact-aware-popularity-rank&crid=L7LT6PC1MN09&qid=1764940892&sprefix=sunglasse%2Caps%2C163&ds=v1%3AaqOGPSa4Gztno%2FDVUfCxlMNn9%2F8VpUrjWXONT6yFr6o&linkCode=ll2&tag=weatherroas02-20&linkId=b5a5969934088d01afaa0f966307b7d9&language=en_CA&ref_=as_li_ss_tl",
     "AU": "https://www.amazon.com.au/s?k=sunglasses&s=exact-aware-popularity-rank&crid=26UWUCQB9XYC8&qid=1764941329&sprefix=sunglasse%2Caps%2C276&ds=v1%3A3UPjtmZ6juKwTKBpM%2BspJ0oZ9%2FfGlPsM3t9DsKr05wc&linkCode=ll2&tag=weatherroasta-22&linkId=d14e6e2289d4c44379c5310b4819398b&language=en_AU&ref_=as_li_ss_tl",
     "IE": "https://www.amazon.ie/s?k=sunglasses&s=exact-aware-popularity-rank&crid=2AQAQ511ZCD54&qid=1764943669&sprefix=sunglasses%2Caps%2C61&ds=v1%3AE62WknmHRZ2YvS1m%2BmXeS887s6GX%2F5pjzuoBCDA59m8&linkCode=ll2&tag=weatherroas08-21&linkId=d094eda6d35ea8769247846baee65d90&language=en_IE&ref_=as_li_ss_tl",
-    "fallback": "UK"
+    "fallback": "US"
   },
   "generic": {
-    "UK": "REPLACE_WITH_UK_GENERIC_CATEGORY_URL",
-    "US": "REPLACE_WITH_US_GENERIC_CATEGORY_URL",
-    "CA": "REPLACE_WITH_CA_GENERIC_CATEGORY_URL",
-    "AU": "REPLACE_WITH_AU_GENERIC_CATEGORY_URL",
-    "IE": "REPLACE_WITH_IE_GENERIC_CATEGORY_URL",
-    "fallback": "UK"
+    "UK": "https://www.amazon.co.uk/s?k=gifts&s=exact-aware-popularity-rank&crid=11N6S8CSQ9RN8&qid=1764941689&sprefix=gifts%2Caps%2C116&ds=v1%3AJKbOTgQXZsZAT%2BCly0W%2F44c9tbNw7P8d0dTGFi%2BKUbw&linkCode=ll2&tag=weatherroasta-21&linkId=2448e1da92e10ee8b940d7c25bab7499&language=en_GB&ref_=as_li_ss_tl",
+    "US": "https://www.amazon.com/s?k=gifts&s=exact-aware-popularity-rank&crid=27IIKW0GY7S4T&qid=1764941850&sprefix=gifts%2Caps%2C163&ds=v1%3A9OPg9oRDbijgrCdw3kNrEPZ470%2FND0dlG2RdmcAs3wI&linkCode=ll2&tag=weatherroasta-20&linkId=9bd1ec0c345fd12249f6afbf54d91a6d&language=en_US&ref_=as_li_ss_tl",
+    "CA": "https://www.amazon.ca/s?k=gifts&s=exact-aware-popularity-rank&crid=3EPTZ4DKDS3JU&qid=1764941937&sprefix=gifts%2Caps%2C154&ds=v1%3ANwmzaRFz%2BQndRRAD0CtIa1fFeBQfYJXP06bJRV5LBXw&linkCode=ll2&tag=weatherroas02-20&linkId=1dd845713e64e0102d5c3413aa4df32a&language=en_CA&ref_=as_li_ss_tl",
+    "AU": "https://www.amazon.com.au/s?k=gifts&s=date-desc-rank&crid=3C7KQ7FC18GB3&qid=1764942211&sprefix=%2Caps%2C257&xpid=ITnm_V6H7UloU&ds=v1%3AQXMeIFmGRxf5Y2xK3x7boEv5PGLf6c2NAP9TjRdu0AQ&linkCode=ll2&tag=weatherroasta-22&linkId=81c29eae7308e49af65dd0311310da1d&language=en_AU&ref_=as_li_ss_tl",
+    "IE": "https://www.amazon.ie/s?k=gifts&s=exact-aware-popularity-rank&crid=1MA8KJ10LORN6&qid=1764943780&sprefix=gifts%2Caps%2C79&ds=v1%3AkIz3Q0KvHu7GzHtW9Wk9mcds%2FJBZv66%2FfCEIeV9PGFg&linkCode=ll2&tag=weatherroas08-21&linkId=f702e04b0e723e2d3d2fe08d1d198087&language=en_IE&ref_=as_li_ss_tl",
+    "fallback": "US"
   }
 }
 ,
