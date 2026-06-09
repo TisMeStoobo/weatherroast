@@ -74,16 +74,16 @@
 ,
  "banners": {
   "rain": {
-    "imageUrl": "https://weatherroast.app/banners/prime_rain_v1.webp"
+    "imageUrl": "https://weatherroast.app/banners/prime_rain_v3.webp"
   },
   "snow": {
-    "imageUrl": "https://weatherroast.app/banners/prime_snow_v1.webp"
+    "imageUrl": "https://weatherroast.app/banners/prime_snow_v3.webp"
   },
   "sun": {
-    "imageUrl": "https://weatherroast.app/banners/sun_products_v1.webp"
+    "imageUrl": "https://weatherroast.app/banners/sun_products_v3.webp"
   },
   "generic": {
-    "imageUrl": "https://weatherroast.app/banners/generic_products_v1.webp"
+    "imageUrl": "https://weatherroast.app/banners/generic_products_v3.webp"
   }
 }
 
